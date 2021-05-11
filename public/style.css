@@ -1,0 +1,51 @@
+
+
+.body_back{
+    background: url('./images/tim-mossholder-8R-mXppeakM-unsplash.jpg') center top/cover no-repeat;
+}
+
+
+
+.new_body{
+    background: url('./images/andreas-haslinger-aVP3ryIQKpM-unsplash.jpg') center top/cover no-repeat;
+}
+
+
+
+.heading{
+    color: rgb(0, 174, 255);
+}
+
+
+
+
+.own{
+    width: 62.4vw;
+    background-color: lightgreen;
+    margin: 10px 0px;
+    padding: 5px;
+    overflow: auto;
+
+}
+
+.other{
+    width: 62.4vw;
+    background-color: lightcoral;
+    text-align:right;
+    margin: 10px 0px;
+    padding: 5px;
+    overflow: auto;
+}
+
+
+
+ol , li{
+    padding-left: 0rem;
+}
+
+
+body{
+    overflow: auto;
+}
+
+
