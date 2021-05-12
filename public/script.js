@@ -23,7 +23,7 @@ $('#login').click((e)=>{
 
         $('body').append(`<div class="container-fluid">
         <div class="row m-3 ">
-            <div class="col col-lg-8 col-sm-6 col-md-6" style="display:flex; flex-direction:row; margin-bottom:20px">
+            <div class="col col-lg-8 col-sm-6 col-md-6" style="display:flex; flex-direction:row; margin-bottom:20px; position:sticky; top:0px;">
                     <label for="message"></label>
                     <textarea name = "message" id="msgInp" cols="30" rows="2" style = "width:800px; display:inline; outline:none;"></textarea> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                     <button type="submit" class="btn btn-success fs-4" id="msg" style = "display:inline;">Send</button>

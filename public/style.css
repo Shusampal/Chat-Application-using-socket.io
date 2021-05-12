@@ -20,7 +20,7 @@
 
 
 .own{
-    width: 62.4vw;
+    width: 61vw;
     background-color: lightgreen;
     margin: 10px 0px;
     padding: 5px;
@@ -29,7 +29,7 @@
 }
 
 .other{
-    width: 62.4vw;
+    width: 61vw;
     background-color: lightcoral;
     text-align:right;
     margin: 10px 0px;
